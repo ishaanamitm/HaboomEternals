@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>C%%Users%M Gokul Jayanth%git%KatalonAutomation%HaboomEternals%HaboomEternals.prj</name>
+
+	<name>C%%Users%megan%git%HaboomEternals%HaboomEternals.prj</name>
+
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +19,9 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1708672169955</id>
+
+			<id>1708672052445</id>
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,7 +30,9 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1708672169957</id>
+
+			<id>1708672052526</id>
+
 			<name></name>
 			<type>6</type>
 			<matcher>
