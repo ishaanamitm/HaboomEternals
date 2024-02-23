@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Haboom_Suite1,Chrome 121.0.0.0,,,23-02-2024 14:07:35,23-02-2024 14:07:54,19.781s,FAILED
+,,,,,,,
+Test Cases/Casino/Open_Games,Chrome 121.0.0.0,,,23-02-2024 14:07:35,23-02-2024 14:07:54,19.639s,FAILED
+Start setup action : setupTestCase,Chrome 121.0.0.0,,,23-02-2024 14:07:35,23-02-2024 14:07:47,12.454s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,23-02-2024 14:07:47,23-02-2024 14:07:48,0.796s,PASSED
+"navigateToUrl(""https://haboom.com/"")",Chrome 121.0.0.0,,,23-02-2024 14:07:48,23-02-2024 14:07:49,0.603s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,23-02-2024 14:07:49,23-02-2024 14:07:52,3.114s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_username""), ""MartinGarrix"")",Chrome 121.0.0.0,,,23-02-2024 14:07:52,23-02-2024 14:07:54,2.418s,FAILED
+Start tear down : tearDownTestCase,Chrome 121.0.0.0,,,23-02-2024 14:07:54,23-02-2024 14:07:54,0.101s,PASSED

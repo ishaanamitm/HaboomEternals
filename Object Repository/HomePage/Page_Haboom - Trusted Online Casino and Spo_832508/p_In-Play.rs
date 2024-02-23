@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_In-Play</name>
+   <tag></tag>
+   <elementGuidId>8cce31d1-cac8-443b-a9b9-38a64634979d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cricketMatches']/div/div/div/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.kd__noto.kd__fs14.kd__fcol-3.kd__mt-3.in-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>17a58e72-509f-49f8-a1f3-5d0e7d65c954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kd__noto kd__fs14 kd__fcol-3 kd__mt-3 in-play</value>
+      <webElementGuid>384ee5ac-7909-4fd6-9f15-c650a5634e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In-Play</value>
+      <webElementGuid>ff431e51-2c7c-4774-8647-0ddeb689a16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;container full-width-page scrollable-columns default-min-size-page&quot;]/ui-view[@class=&quot;ng-scope&quot;]/div[@class=&quot;page-content nested-scrollable-pane-parent front-pages ng-scope&quot;]/div[@class=&quot;bf-row no-bottom-gutter scrollable-panes-height-taker height-taker-helper&quot;]/div[@class=&quot;scrollable-panes-wrapper scrollable-panes-wrapper-helper&quot;]/div[@class=&quot;bf-row no-bottom-gutter scrollable-pane content-page-row&quot;]/div[@class=&quot;content-page-center-column homepage-center-column&quot;]/div[@class=&quot;no-bottom-gutter&quot;]/div[@class=&quot;kd__container-fluid kd__flow_root kd__bg-col-1 kd__br-2 kd__mt-2 new_bg_white&quot;]/div[@id=&quot;cricketMatches&quot;]/div[@class=&quot;kd__col kd_top_matches datalist market_container main_market&quot;]/div[@class=&quot;kd-w-306-px kd__br-1 kd__bg-col-1 new_bg_white gotoExDetailsDesktop&quot;]/div[@class=&quot;kd__bg-col-5 kd__br-6 kd__p-2 kd__d-flex kd__align-items-center kd__justify-content-space-between&quot;]/div[@class=&quot;kd__text-right&quot;]/p[@class=&quot;kd__noto kd__fs14 kd__fcol-3 kd__mt-3 in-play&quot;]</value>
+      <webElementGuid>801046f7-e947-4808-bf85-1b1a7ccab871</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cricketMatches']/div/div/div/div/p[3]</value>
+      <webElementGuid>df0c1ad8-e550-4b92-a5f9-2229e563f01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GET OTP'])[1]/following::p[65]</value>
+      <webElementGuid>41386082-0a88-4756-9e5e-f4b583f92cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend OTP'])[1]/following::p[65]</value>
+      <webElementGuid>32c95fb1-b273-4596-9124-10ab0e569207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹765L'])[1]/preceding::p[3]</value>
+      <webElementGuid>399b4679-c2d4-4d8e-bfc2-081015f3fa4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹97K'])[1]/preceding::p[3]</value>
+      <webElementGuid>a24f1c0b-d696-4079-9402-7043916a26b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In-Play']/parent::*</value>
+      <webElementGuid>eb7205f7-d31a-4f31-9b8b-5ac7299f7332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>57fba905-622b-4bcc-928e-1d02c5110a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'In-Play' or . = 'In-Play')]</value>
+      <webElementGuid>a7040d43-4525-40f9-8097-432f6bb4e0c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

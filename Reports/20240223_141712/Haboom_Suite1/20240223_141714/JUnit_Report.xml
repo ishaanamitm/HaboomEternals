@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Haboom_Suite1" time="16.202" tests="1" failures="0" errors="0">
+   <testsuite name="Haboom_Suite1" tests="1" failures="0" errors="0" time="16.202" skipped="0" timestamp="23-02-2024T14:17:16" hostname="M Gokul Jayanth - LAPTOP-QCN9K3GM" id="Test Suites/Haboom_Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\M Gokul Jayanth\\git\\KatalonAutomation\\HaboomEternals\\Reports\\20240223_141712\\Haboom_Suite1\\20240223_141714"/>
+         <property name="logFiles" value="C:\\Users\\M Gokul Jayanth\\git\\KatalonAutomation\\HaboomEternals\\Reports\\20240223_141712\\Haboom_Suite1\\20240223_141714\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="M Gokul Jayanth - LAPTOP-QCN9K3GM"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.50.148"/>
+         <property name="sessionId" value="5d9358acad23e81bda5109c2839f8f7d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Home_Page/Recommended_Games" time="16.058" classname="Test Cases/Home_Page/Recommended_Games" status="PASSED">
+         <system-out><![CDATA[23-02-2024T14:17:16 - [TEST_CASE][PASSED] - Test Cases/Home_Page/Recommended_Games: Test Cases/Home_Page/Recommended_Games
+
+23-02-2024T14:17:16 - [TEST_STEP][PASSED] - Start setup action : setupTestCase: Method 'setupTestCase' complete successfully
+
+23-02-2024T14:17:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-02-2024T14:17:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-02-2024T14:17:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-02-2024T14:17:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-02-2024T14:17:17 - [TEST_STEP][PASSED] - println("Setup - BrowserClosed"): null
+
+23-02-2024T14:17:17 - [TEST_STEP][PASSED] - navigateToUrl("https://haboom.com/"): Navigate to 'https://haboom.com/' successfully
+
+23-02-2024T14:17:24 - [MESSAGE][PASSED] - Navigate to 'https://haboom.com/' successfully
+
+23-02-2024T14:17:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-02-2024T14:17:24 - [MESSAGE][PASSED] - Current window maximized
+
+23-02-2024T14:17:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_username"), "MartinGarrix"): Text 'MartinGarrix' is set on object 'Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_username'
+
+23-02-2024T14:17:26 - [MESSAGE][PASSED] - Text 'MartinGarrix' is set on object 'Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_username'
+
+23-02-2024T14:17:26 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_password"), "cvW8qx4B2o1WegCEDy41Xg=="): Text ****** has been set on object 'Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_password'
+
+23-02-2024T14:17:27 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_password'
+
+23-02-2024T14:17:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Casino/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_submitLogForm")): Object: 'Object Repository/Casino/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_submitLogForm' is clicked on
+
+23-02-2024T14:17:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Casino/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_submitLogForm' is clicked on
+
+23-02-2024T14:17:28 - [MESSAGE][PASSED] - Method 'setupTestCase' complete successfully
+
+23-02-2024T14:17:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HomePage/Page_Haboom - Trusted Online Casino and Spo_832508/img_GET OTP_kd__position-absolute kd__shado_b52a94")): Object: 'Object Repository/HomePage/Page_Haboom - Trusted Online Casino and Spo_832508/img_GET OTP_kd__position-absolute kd__shado_b52a94' is clicked on
+
+23-02-2024T14:17:31 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage/Page_Haboom - Trusted Online Casino and Spo_832508/img_GET OTP_kd__position-absolute kd__shado_b52a94' is clicked on
+
+23-02-2024T14:17:31 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+23-02-2024T14:17:31 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+23-02-2024T14:17:31 - [TEST_STEP][PASSED] - Actualtitle = getWindowTitle(): Current window's title is: 'Three Card Poker'
+
+23-02-2024T14:17:32 - [MESSAGE][PASSED] - Current window's title is: 'Three Card Poker'
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - println(Actualtitle): null
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - Expectedtitle = "Three Card Poker": null
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - verifyMatch(Actualtitle, Expectedtitle, true): Actual text 'Three Card Poker' and expected text 'Three Card Poker' are matched  using regular expression
+
+23-02-2024T14:17:32 - [MESSAGE][PASSED] - Actual text 'Three Card Poker' and expected text 'Three Card Poker' are matched  using regular expression
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - println("TearDown - BrowserClosed"): null
+
+23-02-2024T14:17:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-02-2024T14:17:32 - [MESSAGE][PASSED] - Browser is closed
+
+23-02-2024T14:17:32 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-02-2024T14:17:16 - [TEST_SUITE][PASSED] - Haboom_Suite1: Test Cases/Home_Page/Recommended_Games]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Haboom_Suite1,Chrome 121.0.0.0,,,23-02-2024 14:13:56,23-02-2024 14:14:18,21.574s,FAILED
+,,,,,,,
+Test Cases/Casino/Open_Games,Chrome 121.0.0.0,,,23-02-2024 14:13:56,23-02-2024 14:14:18,21.444s,FAILED
+Start setup action : setupTestCase,Chrome 121.0.0.0,,,23-02-2024 14:13:56,23-02-2024 14:14:08,11.326s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,23-02-2024 14:14:08,23-02-2024 14:14:09,0.763s,PASSED
+"navigateToUrl(""https://haboom.com/"")",Chrome 121.0.0.0,,,23-02-2024 14:14:09,23-02-2024 14:14:14,5.803s,PASSED
+maximizeWindow(),Chrome 121.0.0.0,,,23-02-2024 14:14:14,23-02-2024 14:14:15,0.144s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_username""), ""MartinGarrix"")",Chrome 121.0.0.0,,,23-02-2024 14:14:15,23-02-2024 14:14:17,2.575s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_password""), ""cvW8qx4B2o1WegCEDy41Xg=="")",Chrome 121.0.0.0,,,23-02-2024 14:14:17,23-02-2024 14:14:18,0.502s,PASSED
+"click(findTestObject(""Object Repository/Casino/Page_Haboom - Trusted Online Casino and Spo_832508/input_Help_submitLogForm""))",Chrome 121.0.0.0,,,23-02-2024 14:14:18,23-02-2024 14:14:18,0.093s,FAILED
+Start tear down : tearDownTestCase,Chrome 121.0.0.0,,,23-02-2024 14:14:18,23-02-2024 14:14:18,0.076s,PASSED

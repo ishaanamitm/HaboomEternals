@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Rugby</name>
+   <tag></tag>
+   <elementGuidId>720c6874-45b6-4ac7-890d-be423207199a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f6a7dba-ad5d-4818-8163-8b57c8fbe231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-nav sports-tab ui-clickselect</value>
+      <webElementGuid>66113a2a-e6fd-4106-b70f-09b160994a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Rugby</value>
+      <webElementGuid>78106ee2-b9f2-417d-aeac-edbe983153c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sportname</name>
+      <type>Main</type>
+      <value>Rugby</value>
+      <webElementGuid>31b893c5-fe48-4a73-a436-95b9321847fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sport_url</name>
+      <type>Main</type>
+      <value>srsport12</value>
+      <webElementGuid>72a30f57-538b-4749-b486-4d8361596ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                 
+                                   Rugby 
+                                 </value>
+      <webElementGuid>cd611a48-34e1-48b5-9a0f-1e02ac0946dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mod-sportshighlights-new-1015&quot;)/div[@class=&quot;sports-list list-5 cl_sports_list ksr____sec__301&quot;]/ul[@class=&quot;ui-clickselect-container allSportFilterOneContainer&quot;]/li[@class=&quot;sports-item ui-gtm-click sportFilterOne cl_line_links&quot;]/a[@class=&quot;ui-nav sports-tab ui-clickselect&quot;]</value>
+      <webElementGuid>7069ca35-c95a-421d-9b35-d33d0ce3e547</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[5]/a</value>
+      <webElementGuid>6a73dde6-6241-4964-956f-7a621a392feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(167)'])[1]/following::a[1]</value>
+      <webElementGuid>690028f5-6e8b-446c-b553-172deca93011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/ul/li[5]/a</value>
+      <webElementGuid>029b5c4a-2b58-415d-b810-dd680f3324cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Rugby' and (text() = '
+                                 
+                                   Rugby 
+                                 ' or . = '
+                                 
+                                   Rugby 
+                                 ')]</value>
+      <webElementGuid>3803b8e2-8479-4951-871f-dd72574eef5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
