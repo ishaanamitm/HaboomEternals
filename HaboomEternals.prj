@@ -3,7 +3,10 @@
    <description></description>
    <name>HaboomEternals</name>
    <tag></tag>
-   <UUID>c9ca9b03-7fd7-4cfa-a2a5-7db1111c09fa</UUID>
+
+   <UUID>b678ae78-c4c6-4810-a917-aa1aa26b33f9</UUID>
+
+
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
