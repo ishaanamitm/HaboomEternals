@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tennis</name>
+   <tag></tag>
+   <elementGuidId>33faec26-eba7-49f4-8cec-206b3d192ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48bd3380-34bb-4271-8ac7-141e9a4d6b24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-nav sports-tab ui-clickselect</value>
+      <webElementGuid>1a6300ff-7e58-4704-9f68-8940783e8b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Tennis</value>
+      <webElementGuid>95c8d025-5499-45b4-a83e-2e6c277d8e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sportname</name>
+      <type>Main</type>
+      <value>Tennis</value>
+      <webElementGuid>79106a3d-2932-4833-afce-3691e4092f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sport_url</name>
+      <type>Main</type>
+      <value>srsport5</value>
+      <webElementGuid>51c2cd78-40c1-4f09-b644-1d37bcbbb6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                 
+                                   Tennis 
+                                 </value>
+      <webElementGuid>2e24fdef-0d9e-4ff3-9526-80d60246c638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mod-sportshighlights-new-1015&quot;)/div[@class=&quot;sports-list list-5 cl_sports_list ksr____sec__301&quot;]/ul[@class=&quot;ui-clickselect-container allSportFilterOneContainer&quot;]/li[@class=&quot;sports-item ui-gtm-click sportFilterOne cl_line_links&quot;]/a[@class=&quot;ui-nav sports-tab ui-clickselect&quot;]</value>
+      <webElementGuid>37b7629e-a1a0-4056-82f7-c1de181a0c52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[3]/a</value>
+      <webElementGuid>fcf0b555-854b-4356-8bc5-3b7cc8d22b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1221)'])[1]/following::a[1]</value>
+      <webElementGuid>e70351d8-4ef7-437c-87ed-d4382b4a1495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/ul/li[3]/a</value>
+      <webElementGuid>ee5587f0-b842-4c56-a477-4dac4a639ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Tennis' and (text() = '
+                                 
+                                   Tennis 
+                                 ' or . = '
+                                 
+                                   Tennis 
+                                 ')]</value>
+      <webElementGuid>5822057e-b9bf-4b53-9552-f69b40e0238b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

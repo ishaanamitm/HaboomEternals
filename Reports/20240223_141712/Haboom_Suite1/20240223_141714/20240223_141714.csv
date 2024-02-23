@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Haboom_Suite1,Chrome 121.0.0.0,,,23-02-2024 14:17:16,23-02-2024 14:17:32,16.202s,PASSED
+,,,,,,,
+Test Cases/Home_Page/Recommended_Games,Chrome 121.0.0.0,,,23-02-2024 14:17:16,23-02-2024 14:17:32,16.058s,PASSED
+Start setup action : setupTestCase,Chrome 121.0.0.0,,,23-02-2024 14:17:16,23-02-2024 14:17:28,12.405s,PASSED
+"click(findTestObject(""Object Repository/HomePage/Page_Haboom - Trusted Online Casino and Spo_832508/img_GET OTP_kd__position-absolute kd__shado_b52a94""))",Chrome 121.0.0.0,,,23-02-2024 14:17:28,23-02-2024 14:17:31,2.372s,PASSED
+switchToWindowIndex(1),Chrome 121.0.0.0,,,23-02-2024 14:17:31,23-02-2024 14:17:31,0.024s,PASSED
+Actualtitle = getWindowTitle(),Chrome 121.0.0.0,,,23-02-2024 14:17:31,23-02-2024 14:17:32,1.069s,PASSED
+println(Actualtitle),Chrome 121.0.0.0,,,23-02-2024 14:17:32,23-02-2024 14:17:32,0.001s,PASSED
+"Expectedtitle = ""Three Card Poker""",Chrome 121.0.0.0,,,23-02-2024 14:17:32,23-02-2024 14:17:32,0.002s,PASSED
+"verifyMatch(Actualtitle, Expectedtitle, true)",Chrome 121.0.0.0,,,23-02-2024 14:17:32,23-02-2024 14:17:32,0.015s,PASSED
+Start tear down : tearDownTestCase,Chrome 121.0.0.0,,,23-02-2024 14:17:32,23-02-2024 14:17:32,0.091s,PASSED

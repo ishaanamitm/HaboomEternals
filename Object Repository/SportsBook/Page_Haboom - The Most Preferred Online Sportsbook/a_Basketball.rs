@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Basketball</name>
+   <tag></tag>
+   <elementGuidId>47f594b8-c1d0-4521-9801-8a2d0fe86cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0288419f-ec15-4cfb-bcb3-6e873ac522a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-nav sports-tab ui-clickselect</value>
+      <webElementGuid>af9366d6-80d8-462c-83a6-8cd774a2a26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Basketball</value>
+      <webElementGuid>6ffcd69e-9d86-4d60-8ebb-40f8bb63e746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sportname</name>
+      <type>Main</type>
+      <value>Basketball</value>
+      <webElementGuid>af70f675-9fa8-4d1e-a0ae-39eb2f8f2044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sport_url</name>
+      <type>Main</type>
+      <value>srsport2</value>
+      <webElementGuid>5196d555-3ecb-428e-b2f5-4acba67991d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                 
+                                   Basketball 
+                                 </value>
+      <webElementGuid>27b0cca3-84e5-47f6-8009-38c8b44e93c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mod-sportshighlights-new-1015&quot;)/div[@class=&quot;sports-list list-5 cl_sports_list ksr____sec__301&quot;]/ul[@class=&quot;ui-clickselect-container allSportFilterOneContainer&quot;]/li[@class=&quot;sports-item ui-gtm-click sportFilterOne cl_line_links&quot;]/a[@class=&quot;ui-nav sports-tab ui-clickselect&quot;]</value>
+      <webElementGuid>297dbfdc-4035-4a56-8ad2-61078191c96c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mod-sportshighlights-new-1015']/div[2]/ul/li[4]/a</value>
+      <webElementGuid>a8786bdd-559c-4ff2-8cc4-c17c2ada1769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(193)'])[1]/following::a[1]</value>
+      <webElementGuid>5a05ac07-e316-4b01-b5e3-f96f515688f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/ul/li[4]/a</value>
+      <webElementGuid>70c9a9dc-9b0f-4fb1-8935-bb35127e664f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Basketball' and (text() = '
+                                 
+                                   Basketball 
+                                 ' or . = '
+                                 
+                                   Basketball 
+                                 ')]</value>
+      <webElementGuid>99a6d7db-6df6-4c29-b838-906c6494a55a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
