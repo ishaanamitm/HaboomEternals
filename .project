@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-
 	<name>C%%Users%megan%git%HaboomEternals%HaboomEternals.prj</name>
-
 	<comment></comment>
 	<projects>
 	</projects>
@@ -19,9 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-
 			<id>1708672052445</id>
-
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -30,9 +26,25 @@
 			</matcher>
 		</filter>
 		<filter>
-
 			<id>1708672052526</id>
-
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1708672511011</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1708672511024</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
